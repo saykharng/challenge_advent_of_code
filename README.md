@@ -11,6 +11,7 @@ Name your input exactly as the in the code and run 'node filename.js'
 Directory Structure:
 
 Challenge
+
 	--Part 1
-	--Par 2
+	--Part 2
 	
